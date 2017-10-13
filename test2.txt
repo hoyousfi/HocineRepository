@@ -1,0 +1,9 @@
+Tu as 100Go sur ton compte HDFS personnel.
+
+Une base Hive de 50Go (hyousfi.db)
+
+Cordialement,
+
+L’équipe Administration Marvel Ecosystem
+
+En cas de problème, un mail à DL FR Marvel Ecosystem Administrators en préfixant l’objet de [HELP]
