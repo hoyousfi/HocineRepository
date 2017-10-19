@@ -2,7 +2,7 @@ Tu as 100Go sur ton compte HDFS personnel.
 
 Une base Hive de 50Go (hyousfi.db)
 
-Cordialement,
+
 
 L’équipe Administration Marvel Ecosystem
 
